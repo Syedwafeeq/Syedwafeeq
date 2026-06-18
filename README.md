@@ -143,11 +143,11 @@ Deployed and configured both Snort and Suricata in a controlled lab. Wrote custo
 
 ## Competitive Programming
 
-<p align="center">
-  <a href="https://leetcode.com/u/Wafeeq_Syed/">
-    <img src="https://leetcode-stats-inky.vercel.app/?username=Wafeeq_Syed&theme=dark&ranking=true"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Wafeeq_Syed?theme=dark&font=Baloo&ext=heatmap" />
+
+</div>
 
 ---
 

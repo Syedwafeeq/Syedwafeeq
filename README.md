@@ -122,6 +122,12 @@ Deployed and configured both Snort and Suricata in a controlled lab. Wrote custo
 - Udemy — WiFi Pentesting for Beginners + Basic WiFi Theory
 - TryHackMe — SOC Level 1 Path (alert triage, log analysis, SIEM operations, threat investigation)
 
+<p align="center">
+  <a href="https://tryhackme.com/p/wafeeqsyed303" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/wafeeqsyed303.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
 ---
 
 ## GitHub Analytics

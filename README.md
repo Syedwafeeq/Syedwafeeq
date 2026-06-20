@@ -1,159 +1,159 @@
-<!-- HEADER -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=120&text=Syed%20Wafeeq%20Usaid&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=50&desc=Cybersecurity%20%7C%20SOC%20%7C%20Network%20Security&descColor=00F79F&descSize=16&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=130&text=Syed%20Wafeeq%20Usaid&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=45&desc=Cybersecurity%20%7C%20SOC%20%7C%20Network%20Security&descColor=00F79F&descSize=16&descAlignY=72"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F79F&center=true&vCenter=true&width=750&lines=SOC+Analyst+%7C+Network+Security;Threat+Detection+%26+Incident+Response;Security+Tooling+%26+Lab+Engineering;B.Tech+Cybersecurity+%40+VFSTR+%7C+CGPA+8.44"/>
+  <img src="https://img.shields.io/badge/SOC%20Analyst-00F79F?style=flat-square&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Network%20Security-00F79F?style=flat-square&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Threat%20Detection-00F79F?style=flat-square&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Incident%20Response-00F79F?style=flat-square&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Lab%20Engineering-00F79F?style=flat-square&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/B.Tech%20Cybersecurity%20%40%20VFSTR-1e2d3d?style=flat-square&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/CGPA%208.44-1e2d3d?style=flat-square&logoColor=white"/>
 </p>
 
 <p align="center">
-  <a href="mailto:wafeeqsyed303@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/wafeeq-syed-546504291/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://leetcode.com/u/f6d4slx9wH/">
-    <img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Syedwafeeq">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
+  <a href="mailto:wafeeqsyed303@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/wafeeq-syed-546504291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://leetcode.com/u/f6d4slx9wH/"><img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white"/></a>&nbsp;
+  <a href="https://tryhackme.com/p/wafeeqsyed303"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/Syedwafeeq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Syedwafeeq&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-## About
-
-B.Tech Cybersecurity student at Vignan's Foundation for Science, Technology and Research (VFSTR), Guntur — graduating 2027, current CGPA 8.44.
-
-I build security labs, develop tooling, and study both sides of the discipline. My primary focus is SOC analyst work and network security: configuring SIEMs, running detection pipelines, analyzing traffic, and writing Python utilities that solve real problems. I prefer building things over reading about them.
-
----
-
-## Projects
-
-### [SOC-Operations Lab](https://github.com/Syedwafeeq/SOC-LAB)
-`Wazuh` `Suricata` `Elasticsearch` `Cassandra` `TheHive` `Sysmon`
-
-Full SOC environment built from scratch. Wazuh as the SIEM with Elasticsearch and Cassandra on the backend, Suricata for network IDS/IPS, TheHive for case management. Wazuh agents deployed on both Windows (with Sysmon) and Linux endpoints, collecting FIM, authentication, system, and Sysmon logs.
-
-Ran a series of controlled attacks from a separate attacker machine on the same network — SSH brute force against Linux, RDP brute force against Windows, PowerShell-based user creation and privilege escalation, and data exfiltration. Monitored, correlated, and triaged every alert through to a documented case in TheHive.
-
----
-
-### DECEPTA — Phishing Detection System
-`Python` `Flask` `HuggingFace NLP` `HTML/CSS` `Git`
-
-Multi-module web application for phishing detection. Combines email header and payload parsing, NLP-based content analysis using a HuggingFace transformer model, and rule-based classification to identify deceptive indicators. Flask backend with modular components for input validation, authentication checks, and structured decision logic.
-
----
-
-### LanMap — Network Discovery Tool *(in progress)*
-`Python` `Scapy` `CLI`
-
-Active network reconnaissance tool that performs ICMP host discovery across all addressable hosts on a subnet, collecting IP and response status into a structured format. Port scanning and service enumeration in active development. No external dependencies — cross-platform across Linux and Windows.
-
----
-
-### NextVault NAS — Secure Distributed Storage Platform
-`Nextcloud` `Docker` `Wazuh` `Fail2Ban` `Prometheus` `Grafana`
-
-3-node distributed NAS built on Nextcloud and Docker for centralized storage and multi-user access. Security node runs Wazuh, Fail2Ban, Prometheus, and Grafana — providing real-time security event monitoring, intrusion prevention, and full observability across all nodes.
-
----
-
-### Firewall Lab — pfSense
-`pfSense` `Network Security` `Traffic Filtering`
-
-Deployed pfSense in a virtual lab environment. Configured firewall rules, NAT policies, and inbound/outbound filtering. Tested effectiveness against simulated unauthorized access attempts and validated rule enforcement through controlled traffic analysis.
-
----
-
-### IDS/IPS Lab — Snort & Suricata
-`Snort` `Suricata` `Detection Engineering`
-
-Deployed and configured both Snort and Suricata in a controlled lab. Wrote custom detection rules for port scanning, brute-force attempts, and anomalous network behavior. Validated detection accuracy against simulated attack scenarios.
-
----
-
-## Technical Stack
-
-| Area | Tools |
-|------|-------|
-| SIEM & Monitoring | Wazuh, Elasticsearch, Grafana, Prometheus |
-| IDS / IPS | Suricata, Snort, Fail2Ban |
-| Security Tools | Nmap, Wireshark, Burp Suite, Metasploit, TheHive |
-| Languages | Python, C, SQL, JavaScript, HTML/CSS, Bash |
-| Frameworks / Libraries | Flask, HuggingFace Transformers, Scapy, NumPy |
-| OS & Infrastructure | Ubuntu Linux, Windows, Docker |
-| Developer Tools | Git, VS Code, PyCharm |
-
----
-
-## Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,mysql,git,github,vscode,docker,flask"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Wazuh-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Suricata-CC0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596be?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TheHive-F7A800?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Syedwafeeq&label=Profile+Views&color=00F79F&style=flat"/>
 </p>
 
 ---
 
-## Certifications
+<h2 align="center">LANGUAGES, TOOLS & TECHNOLOGIES</h2>
 
-- NPTEL — Privacy & Security (Elite Silver)
-- Cisco — Introduction to Cybersecurity Essentials
-- OPSWAT — Critical Infrastructure Security
-- Udemy — WiFi Pentesting for Beginners + Basic WiFi Theory
-- TryHackMe — SOC Level 1 Path (alert triage, log analysis, SIEM operations, threat investigation)
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="160"><b>Languages</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py,c,js,bash,html,css,mysql&theme=dark&perline=7"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks &<br/>Libraries</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask,sqlite&theme=dark&perline=7"/>
+      &nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      &nbsp;<img src="https://img.shields.io/badge/Scapy-306998?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>SIEM &<br/>Monitoring</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus&theme=dark&perline=7"/>
+      &nbsp;<img src="https://img.shields.io/badge/Wazuh-4B0082?style=flat-square&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/Syslog-555555?style=flat-square&logo=gnubash&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>IDS / IPS &<br/>Incident Response</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Suricata-CC0000?style=flat-square&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/Snort-CC0000?style=flat-square&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/Fail2Ban-8B0000?style=flat-square&logo=linux&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/TheHive-F7A800?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Security &<br/>Pentesting</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=linux&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=flat-square&logo=portswigger&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/Metasploit-2596BE?style=flat-square&logo=metasploit&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>OS &<br/>Infrastructure</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,docker&theme=dark&perline=7"/>
+      &nbsp;<img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white"/>
+      &nbsp;<img src="https://skillicons.dev/icons?i=cassandra&theme=dark" height="20"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Networking</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TCP%2FIP-00897B?style=flat-square&logo=cisco&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/DNS-00897B?style=flat-square&logo=cloudflare&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/DHCP-00897B?style=flat-square&logo=cisco&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/SMTP-00897B?style=flat-square&logo=maildotru&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/UDP-00897B?style=flat-square&logo=cisco&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/Subnetting-00897B?style=flat-square&logo=cisco&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Dev Tools</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&theme=dark&perline=7"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">GITHUB METRICS</h2>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/wafeeqsyed303" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/wafeeqsyed303.png" alt="TryHackMe Badge" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Syedwafeeq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syedwafeeq&theme=tokyonight&hide_border=true" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syedwafeeq&bg_color=1a1b27&hide_border=true&line=00F79F&point=00F79F&area=true&area_color=003322&title_color=ffffff&color=aaaaaa" width="98%"/>
 </p>
 
 ---
 
-## GitHub Analytics
+<h2 align="center">COMPETITIVE PROGRAMMING & PLATFORM STATS</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syedwafeeq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syedwafeeq&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedwafeeq&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syedwafeeq&theme=tokyo-night&hide_border=true"/>
-</p>
+<table align="center" width="90%">
+  <tr>
+    <td align="center" width="50%">
+      <b>LeetCode</b><br/><br/>
+      <img src="https://leetcard.jacoblin.cool/Wafeeq_Syed?theme=dark&font=Baloo&ext=heatmap"/>
+    </td>
+    <td align="center" width="50%">
+      <b>TryHackMe</b><br/><br/>
+      <img src="https://tryhackme-badges.s3.amazonaws.com/wafeeqsyed303.png"/><br/><br/>
+      <img src="https://img.shields.io/badge/SOC%20Level%201-Completed-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Advent%20of%20Cyber-Completed-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Competitive Programming
+<h2 align="center">CERTIFICATIONS & ACHIEVEMENTS</h2>
 
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Wafeeq_Syed?theme=dark&font=Baloo&ext=heatmap" />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/NPTEL-Elite%20Silver-4CAF50?style=flat-square&logo=coursera&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Cisco-Python%20%26%20AI-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/OPSWAT-Critical%20Infrastructure-00897B?style=flat-square&logo=opswat&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Udemy-WiFi%20Pentesting-A435F0?style=flat-square&logo=udemy&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-212C42?style=flat-square&logo=tryhackme&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/TryHackMe-Advent%20of%20Cyber-212C42?style=flat-square&logo=tryhackme&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Hackathon-Agentic%20AI%20Runnerup-FFD700?style=flat-square&logoColor=black"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FE7A16?style=flat-square&logo=leetcode&logoColor=white"/></td>
+  </tr>
+</table>
 
 ---
 

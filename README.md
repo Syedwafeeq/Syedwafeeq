@@ -16,7 +16,7 @@
 <p align="center">
   <a href="mailto:wafeeqsyed303@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/wafeeq-syed-546504291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://leetcode.com/u/f6d4slx9wH/"><img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white"/></a>&nbsp;
+  <a href="https://leetcode.com/u/Wafeeq_Syed/"><img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white"/></a>&nbsp;
   <a href="https://tryhackme.com/p/wafeeqsyed303"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/Syedwafeeq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>

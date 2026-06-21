@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SOC%20Analyst-00F79F?style=flat-square&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/Network%20Security-00F79F?style=flat-square&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/Threat%20Detection-00F79F?style=flat-square&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/Incident%20Response-00F79F?style=flat-square&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/Lab%20Engineering-00F79F?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOC%20Analyst-2E9E8F?style=flat-square&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Network%20Security-4A90A4?style=flat-square&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Threat%20Detection-3B82A0?style=flat-square&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Incident%20Response-1A7A6E?style=flat-square&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Lab%20Engineering-6366F1?style=flat-square&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/B.Tech%20Cybersecurity%20%40%20VFSTR-1e2d3d?style=flat-square&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/CGPA%208.44-1e2d3d?style=flat-square&logoColor=white"/>
 </p>
@@ -27,77 +27,102 @@
 
 ---
 
-<h2 align="center">LANGUAGES, TOOLS & TECHNOLOGIES</h2>
+<h2 align="center"> Languages, Tools and Technologies</h2>
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="160"><b>Languages</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=py,c,js,bash,html,css,mysql&theme=dark&perline=7"/>
+    <td align="center" valign="top" width="33%">
+      <b>Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=py,c,js,bash&theme=dark&perline=4"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>Version Control</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=4"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>Editors</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark&perline=4"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Frameworks &<br/>Libraries</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask,sqlite&theme=dark&perline=7"/>
-      &nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-      &nbsp;<img src="https://img.shields.io/badge/Scapy-306998?style=flat-square&logo=python&logoColor=white"/>
+    <td align="center" valign="top">
+      <b>Frameworks & Libraries</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark&perline=4"/>
+      &nbsp;<img src="https://img.shields.io/badge/Scapy-306998?style=flat-square&logo=python&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="44"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Databases</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,elasticsearch&theme=dark&perline=4"/>
+    </td>
+    <td align="center" valign="top">
+      <b>OS & Systems</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows&theme=dark&perline=4"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>SIEM &<br/>Monitoring</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus&theme=dark&perline=7"/>
-      &nbsp;<img src="https://img.shields.io/badge/Wazuh-4B0082?style=flat-square&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=windows&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/Syslog-555555?style=flat-square&logo=gnubash&logoColor=white"/>
+    <td align="center" valign="top">
+      <b>SIEM & Monitoring</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark&perline=4"/>
+      &nbsp;<img src="https://img.shields.io/badge/Wazuh-4B0082?style=flat-square&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=windows&logoColor=white" height="44"/>
+    </td>
+    <td align="center" valign="top">
+      <b>IDS / IPS & IR</b><br/><br/>
+      <img src="https://img.shields.io/badge/Suricata-CC0000?style=flat-square&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Snort-CC0000?style=flat-square&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Fail2Ban-8B0000?style=flat-square&logo=linux&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/TheHive-F7A800?style=flat-square&logoColor=white" height="44"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Security & Pentesting</b><br/><br/>
+      <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=linux&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=flat-square&logo=portswigger&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Metasploit-2596BE?style=flat-square&logo=metasploit&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logoColor=white" height="44"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>IDS / IPS &<br/>Incident Response</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Suricata-CC0000?style=flat-square&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/Snort-CC0000?style=flat-square&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/Fail2Ban-8B0000?style=flat-square&logo=linux&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/TheHive-F7A800?style=flat-square&logoColor=white"/>
+    <td align="center" valign="top">
+      <b>Networking</b><br/><br/>
+      <img src="https://img.shields.io/badge/TCP%2FIP-00897B?style=flat-square&logo=cisco&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/DNS-00897B?style=flat-square&logo=cloudflare&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/DHCP-00897B?style=flat-square&logo=cisco&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/SMTP-00897B?style=flat-square&logo=maildotru&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Subnetting-00897B?style=flat-square&logo=cisco&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="44"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Infrastructure</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark&perline=4"/>
+      &nbsp;<img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white" height="44"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Miscellaneous</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark&perline=4"/>
+      &nbsp;<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="44"/>
     </td>
   </tr>
+</table>
+
+---
+
+<h2 align="center">COMPETITIVE PROGRAMMING & PLATFORM STATS</h2>
+
+<table align="center" width="90%">
   <tr>
-    <td align="center"><b>Security &<br/>Pentesting</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=linux&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=flat-square&logo=portswigger&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/Metasploit-2596BE?style=flat-square&logo=metasploit&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white"/>
+    <td align="center" width="50%">
+      <b>LeetCode</b><br/><br/>
+      <img src="https://leetcard.jacoblin.cool/Wafeeq_Syed?theme=dark&font=Baloo&ext=heatmap"/>
     </td>
-  </tr>
-  <tr>
-    <td align="center"><b>OS &<br/>Infrastructure</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,docker&theme=dark&perline=7"/>
-      &nbsp;<img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white"/>
-      &nbsp;<img src="https://skillicons.dev/icons?i=cassandra&theme=dark" height="20"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Networking</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TCP%2FIP-00897B?style=flat-square&logo=cisco&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/DNS-00897B?style=flat-square&logo=cloudflare&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/DHCP-00897B?style=flat-square&logo=cisco&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/SMTP-00897B?style=flat-square&logo=maildotru&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/UDP-00897B?style=flat-square&logo=cisco&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/Subnetting-00897B?style=flat-square&logo=cisco&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Dev Tools</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&theme=dark&perline=7"/>
+    <td align="center" width="50%">
+      <b>TryHackMe</b><br/><br/>
+      <img src="https://tryhackme-badges.s3.amazonaws.com/wafeeqsyed303.png"/><br/><br/>
+      <img src="https://img.shields.io/badge/SOC%20-Completed-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Advent%20of%20Cyber-Completed-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -114,25 +139,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syedwafeeq&bg_color=1a1b27&hide_border=true&line=00F79F&point=00F79F&area=true&area_color=003322&title_color=ffffff&color=aaaaaa" width="98%"/>
 </p>
-
----
-
-<h2 align="center">COMPETITIVE PROGRAMMING & PLATFORM STATS</h2>
-
-<table align="center" width="90%">
-  <tr>
-    <td align="center" width="50%">
-      <b>LeetCode</b><br/><br/>
-      <img src="https://leetcard.jacoblin.cool/Wafeeq_Syed?theme=dark&font=Baloo&ext=heatmap"/>
-    </td>
-    <td align="center" width="50%">
-      <b>TryHackMe</b><br/><br/>
-      <img src="https://tryhackme-badges.s3.amazonaws.com/wafeeqsyed303.png"/><br/><br/>
-      <img src="https://img.shields.io/badge/SOC%20Level%201-Completed-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Advent%20of%20Cyber-Completed-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -157,7 +163,3 @@
 
 ---
 
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
